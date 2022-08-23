@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rolling-app/static/css/main.200aa92e.css",
+    "main.js": "/rolling-app/static/js/main.fdb1e1d9.js",
+    "index.html": "/rolling-app/index.html",
+    "main.200aa92e.css.map": "/rolling-app/static/css/main.200aa92e.css.map",
+    "main.fdb1e1d9.js.map": "/rolling-app/static/js/main.fdb1e1d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.200aa92e.css",
+    "static/js/main.fdb1e1d9.js"
+  ]
+}
